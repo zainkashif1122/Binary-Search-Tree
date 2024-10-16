@@ -103,7 +103,7 @@ Here’s a breakdown of the files included in the project:
 
 ## Technologies Used
 - **Languages**: C++
-- **Compilers/IDE**: g++, Visual Studio
+- **Compilers/IDE**: Dev-C++, Visual Studio, Visual Studio Code
 
 ## Code Explanation
 
