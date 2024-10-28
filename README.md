@@ -73,32 +73,32 @@ To run the **Binary Search Tree Data Structure**, follow these steps:
 ## Live Preview of the Recording
 Watch a live preview of the Binary Search Tree operations in action!
 
-[Screen Recording](screenRecording.mp4)
+[`Screen Recording`](screenRecording.mp4)
 
 > **Note:** The quality of this screen recording has been reduced to comply with GitHub's file size limit.
 
 ## File Structure
 Here’s a breakdown of the files included in the project:
 
-- [Main.cpp](Main.cpp)  
+- [`Main.cpp`](Main.cpp)  
   Main file where program execution begins. It contains the code to interact with the user and perform operations such as insert, delete, search, and display.
   
-- [BinarySearchTree.h](BinarySearchTree.h)  
+- [`BinarySearchTree.h`](BinarySearchTree.h)  
   Header file containing the definition of the Binary Search Tree class and its functions.
   
-- [MyBinarySearchTree.h](MyBinarySearchTree.h)  
+- [`MyBinarySearchTree.h`](MyBinarySearchTree.h)  
   Additional helper functions related to Binary Search Tree operations.
   
-- [Node.h](Node.h)  
+- [`Node.h`](Node.h)  
   Defines the structure of a node in the Binary Search Tree, including pointers to the left and right children and the data stored in the node.
 
-- [README.md](README.md)  
+- [`README.md`](README.md)  
   The file you are currently reading, providing an overview of the project.
 
-- [img.png](img.png)  
+- [`img.png`](img.png)  
   Image used to visualize the Binary Search Tree.
 
-- [screenRecording.mp4](screenRecording.mp4)  
+- [`screenRecording.mp4`](screenRecording.mp4)  
   A screen recording demonstrating the Binary Search Tree operations.
 
 ## Technologies Used
